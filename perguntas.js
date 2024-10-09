@@ -1,29 +1,54 @@
 criaCartao(
-    'Programação',
-    'O que é Python?',
-    'O Python é uma linguagem de programação'
+    'linguagem',
+    'como é caminhnão em ingles?',
+    'caminhão em ingles é truck'
 )
 
 criaCartao(
     'Geografia',
-    'Qual a capital da França?',
-    'A capital da França é Paris'
+    'Qual a capital do Brasil?',
+    'A capital do Brasil é brasilia'
 )
 
 criaCartao(
-    'Programação',
-    'O que é uma função?',
-    'Uma função é um bloco de código que executa alguma tarefa'
+    'linguagem',
+    'como é carro em ingles?',
+    'carro em ingles é car'
 )
 
 criaCartao(
-    'Lingua inglesa',
-    'Como se diz oi em Inglês?',
-    'Oi em ingles é HI (RAI)'
+    'linguagem',
+    'Como é cachorro em ingles?',
+    'cachorro em ingles é dog'
 )
 
 criaCartao(
-    'Nova Pergunta',
-    'Isso é um teste?',
-    'SIM'
+    'Geografia',
+    'qual a capital da espanha?',
+    'a capital da espanha é madrid'
+)
+criaCartao(
+    'geografia',
+    'qual o pais mais poluente do mundo?',
+    'o pais mais poluente do mundo é china'
+)
+criaCartao(
+    'geografia',
+    'qual o pais mais rico do mundo?',
+    'o pais mais rico do mundo é luxemburgo'
+)
+criaCartao(
+    'geografia',
+    'qual o pais mais pobre do mundo?',
+    'o pais mais pobre do mundo é borundi'
+)
+criaCartao(
+    'geograia',
+    'qual o pais com mais habitantes no mundo?',
+    'o pais com mais habitantes no mundo é a china'
+)
+criaCartao(
+    'geografia',
+    'qual o maior pais do mundo?',
+    'o maior pais do mundo é a russia'
 )
